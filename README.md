@@ -23,20 +23,14 @@ Copy code
 
 ### ⚙️ Cài đặt & chạy project
 
-#### 1️⃣ Clone repository
-```bash
-git clone <repository-url>
-cd POS_BE_DOTNET/api
-2️⃣ Restore & chạy project
-bash
-Copy code
-dotnet restore
-dotnet run
+#### 1️⃣ Clone repository và cd vào thư mục ``` POS_BE_DOTNET/api ```
+2️⃣ Restore & chạy project ```dotnet restore
+dotnet run``` hoặc ```dotnet watch```
+
 🌐 Thông tin chạy mặc định
 API URL: http://localhost:5038
 
 Swagger UI: http://localhost:5038/swagger
-```
 
 ## 🖥️ FRONTEND – ReactJS
 
@@ -56,5 +50,6 @@ hoặc
 ```npm run dev```
 hoặc
 ```npm start```
+
 
 
