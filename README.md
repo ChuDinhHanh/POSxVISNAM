@@ -8,9 +8,11 @@
 ## 📂 Cấu trúc dự án
 
 POS_PROJECT
+```
 ├── POS_BE_DOTNET
 │ └── api
 └── POS_FE_REACT
+```
 
 yaml
 Copy code
@@ -54,4 +56,5 @@ hoặc
 ```npm run dev```
 hoặc
 ```npm start```
+
 
